@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+I am entering texts that will most likely conflict with what is in the main branch 100%
